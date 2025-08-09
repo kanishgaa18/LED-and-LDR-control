@@ -11,7 +11,7 @@ import sys
 # On Linux, this is typically '/dev/ttyACM0' or '/dev/ttyUSB0'.
 # On macOS, it might be '/dev/cu.usbmodem...'.
 # The baud rate must match the Arduino sketch.
-SERIAL_PORT = 'COM3'
+SERIAL_PORT = 'COM4'
 BAUD_RATE = 9600
 
 def main():
